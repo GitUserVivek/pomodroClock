@@ -107,7 +107,8 @@ class Pomodro extends Component {
     });
   }
   render() {
-    const clientId = "1082757406270-hjptn6fkt7o21tj9cl3r6n2qpqangpro.apps.googleusercontent.com";
+    const clientId = "107513310634-0o17324nu7d7a9jpq6nclcesm66eptrg.apps.googleusercontent.com";
+
     return (
       <div className="pomodro">
         {this.state.isLoggedIn ? (
