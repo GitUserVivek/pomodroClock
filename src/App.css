@@ -11,18 +11,16 @@ body {
     align-items: center;
 }
 
-.App {
-    background-color: pink;
-    height: 100%;
-    width: 100%;
-    border-radius: 0.5rem;
-}
 
 .pomodro {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
+    padding: 5rem;
     align-items: center;
+    background-color: lightgray;
+    border-radius: 0.5rem;
+
 }
 
 .time {
